@@ -4,4 +4,4 @@ Requires 'dateutils' to be installed ( https://packages.debian.org/unstable/date
 
 Usage:
 
-./script "<input CSV file path>" "<output CSV path>"
+./script "[input CSV file path]" "[output CSV path]"
